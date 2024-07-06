@@ -1,5 +1,5 @@
 variable "project" {
-  default     = "guru-playground"
+  default     = "custom-woodland-419219"
   description = "The project ID"
 }
 
